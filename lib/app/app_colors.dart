@@ -10,6 +10,8 @@ class AppColors {
   static const Color primary = Color(0xFFFFCC33);
   static const Color gold = Color(0xFFFFD700);
   static const Color navy = Color(0xFF001F3F);
+  static const Color yellow = Color(0xFFE9C24B);
+
 
   // Status
   static const Color success = Color(0xFF27AE60);
